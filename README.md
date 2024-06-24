@@ -1,2 +1,2 @@
 # LeetCodeSolved
-The selft pratice on LeetCode
+The self pratice on LeetCode
